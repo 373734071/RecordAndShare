@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UTLearning", "UTLearning\UTLearning.csproj", "{5A62EFE8-5075-40FF-8D29-A75E5105217A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UTLearningTest", "UTLearningTest\UTLearningTest.csproj", "{BE2CF0EF-9EEA-415B-81A0-8F826B555F3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A62EFE8-5075-40FF-8D29-A75E5105217A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A62EFE8-5075-40FF-8D29-A75E5105217A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A62EFE8-5075-40FF-8D29-A75E5105217A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A62EFE8-5075-40FF-8D29-A75E5105217A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE2CF0EF-9EEA-415B-81A0-8F826B555F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE2CF0EF-9EEA-415B-81A0-8F826B555F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE2CF0EF-9EEA-415B-81A0-8F826B555F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD3B2BDC-852C-40FE-B72E-680EEE78A08C}
+	EndGlobalSection
+EndGlobal
